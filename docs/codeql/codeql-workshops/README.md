@@ -1,3 +1,6 @@
+# THIS CONTENT HAS MOVED TO https://github.com/advanced-security/codeql-workshops-staging
+
+
 # Introduction
 This directory contains material for teaching/learning CodeQL.  It supplements
 the more general introductory material and the reference material by presenting
